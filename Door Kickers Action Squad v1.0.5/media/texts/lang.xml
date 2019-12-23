@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocaList>
+  <Loca LangName="English" LangAlias="english" TextsFileName="strings.xml" />
+  <Loca LangName="Deutsch" LangAlias="german" TextsFileName="strings_de.xml" />
+  <Loca LangName="Русский" LangAlias="russian" TextsFileName="strings_ru.xml" />
+  <Loca LangName="Français" LangAlias="french" TextsFileName="strings_fr.xml" />
+  <Loca LangName="Español" LangAlias="spanish" TextsFileName="strings_es.xml" />
+</LocaList>

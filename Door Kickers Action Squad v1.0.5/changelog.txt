@@ -1,0 +1,238 @@
+Door Kickers: Action Squad
+
+v1.0.5 from 16-Sep-2018
+-----------------------------
++ Fixed bug that made you lose XP points when transferring points from one player to the other and not using them
++ Changed UTF8 names conversion error handling (removed crash on malformed names in coop lobby)
++ Updated a few levels that had some minor issues
+
+v1.0.4 from 14-Sep-2018
+-----------------------------
++ Fixed Coop disconnects due to upgrades/perks window bug
++ Fixed Completionist achievement
++ Fixed bug that allowed Detonator Dick to detonate hostages without explosives on
++ Fixed Caddyshack perk
++ Small fixes to a few levels
+
+v1.0.3 from 13-Sep-2018
+-----------------------------
++ Fixed ghost frame on online coop restart
++ Improved Shield Boss
++ Added CRC check on online coop invites too
++ Added "player left" message when online peers leaves the game
+
+v1.0.2 from 11-Sep-2018
+-----------------------------
++ Changed controller buttons mapping (Back and Select)
++ Changed score formula to give more score
++ Fixed bug that made the Breacher run really fast (or really slow)
+
+v1.0.1 from 10-Sep-2018
+-----------------------------
++ Fixed bug that prevented chapters from unlocking
+
+v1.0.0 from 10-Sep-2018
+-----------------------------
++ FINAL RELEASE!
++ Added localizations support
++ Added new achievements and improved old ones
++ Added Recon class and many enemies (bosses included)
++ Fixed grenades falling through some metallic platforms
++ Fixed local COOP respawn, teleport back to location, hidden rooms logic
++ Changed leaderboards font so it can display Chinese/russian characters
++ Improved enemies AI
++ Added a neat new intro
++ Actors go up small stairs without jumping
++ Added skins to better differentiate the players
+
+v0.10.1 from 04-July-2018
+-----------------------------
++ Small fixes to some levels
++ Added progress bar to Warrant Server achievement
++ Fixed bug that showed "can't read settings" on launch (new users only)
+
+v0.10.0 from 28-June-2018
+-----------------------------
++! Added 2 new enemies: Big Benny, Juggernaut Jim
++! Added 6 new levels
++! Added one new mission type: Arrest Warrant
++! Completely overhauled the player selection screen
++ Added borderless window fullscreen
++ Made cover objects taller and changed cover mechanics
++ Mouse cursor hides after 5 seconds of inactivity
++ Added better aim to enemies
++ Added new achievements
++ Added new objects and tileset
++ Fixed bug that displayed all enemies and players 2 times
++ Moved save files to Users/[User]/AppData/Local/KillHouseGames/ActionSquad (fix game not starting issue)
++ Fixed Speed Pouches vs KSG Twin Shotgun bug (it didn't work on slug shots)
++ Fixed bug that prevented the player selection to be saved correctly when playing online
+
+v0.9.0 from 09-May-2018
+-----------------------------
++! Added 2 new enemies: Detonator Dick, Machinegunner Ben
++! Added 2 new NPCs: Old Lady, Bomb Vest Hostage
++! Added new gun for the Assaulter: MCX300 Carbine and Special ability: MK48 Light Machinegun
++! Added rigged remote explosive barrels that Detonator Dick can detonate
++! Some enemies will now aim at players when they're on ladders or boxes
++! New Gear: Mag Ready, Smoke Grenade, Antistab Armor
++! Added 4 new cool music tracks
++ Added new voices for Agent Fergie when joining a game
++ Improved AI on smarter enemies: they get ready when they hear a door being breached
++ Tweaked the way enemies see/detect you
++ Both players must be present now to enter a hidden room when playing in coop
++ Doors move when kicked
++ Added new Achievements and fixed older ones (Troublemakers Arriving, Things Heating Up)
++ Added more AI behaviors with different probabilities for the same events
++ Improved script engine, added more math and conditional instructions 
++ Fixed weird rendering, placing and interaction for health and ammo boxes
++ The shotguns only splat targets from close quarters
++ Wounded Cop doesn't alert the enemies when he sees the player
++ The Assaulter Aimed Shot ability doesn't kill the Wounded Cop anymore
++ Animated Doomsday Train level
++ Can't upload scores to Leaderboards if modding is enabled
++ Added graphics for Shield's SMG, Breacher's Dragonbreath
+
+v0.6.13 from 05-Apr-2018 (patch)
+--------------------------------
++ Fixed mission 2.6 (invisible door)
++ Unlocked missions 4.1 and 4.2
++ Fixed bug that prevented players from throwing grenades when on ladders
+
+v0.6.12 from 03-Mar-2018
+------------------------
++ Reinforcements: Agent Fergie. Special abilities: Akimbo Pistols and MP5K SMG
++ Two new villains: Operator Orville and Grenadier Ghenady
++ New weapons for the Assaulter and Shield classes
++ Two new levels
++ Improved AI for most enemies
++ Added random enemies in some levels
++ Improved level design and UI
++ Fixed more freezing and network disconnect issues
+
+v0.6.11 Update-1 from 26-Feb-2018
+---------------------------------
++ Added 2 new ingame tunes 
++ reduced game's RAM footprint
++ Added some cheats. Will probably remove them after Early Access.
++ Network coop desync fixes (exploding barrels, item prices, etc)
++ Breacher slugs can now be shot from mid-air 
++ Fixed: Breacher armor disappearing when switching to slugs
++ Fixed: Weapons locking when spamming the reload or fire buttons
+
+v0.6.11 from 23-Feb-2018
+------------------------
++ Fixed shop bug that allowed for unlimited weapons unlocking (sorry guys :)
+
+v0.6.1 from 22-Feb-2018
+--------------------------
++ [!] Added Steam Achievements
++ [!] Improved Ammo and Health boxes placement
++ [!] Major changes and improvements to Breacher class
++ [!] Added 3 new breacher shotguns: M870, KSG, HK512
++ [!] Added Breacher SAW special ability - cuts through doors and enemies alike!
++ [!] Some special abilities can be activated from the ladders now
++ Completely re-wrote weapons system and added weapon scripts to allow for incredible new weapons!
++ Added Speed Loader gear (loads 4 shotgun shells at once)
++ Changed grenade throwing mechanics from ladders (use up, down to control throw)
++ Changed bullets rendering
++ Added a small window of invulnerability after respawning
++ "Continue" countdown replaced with "Respawn" countdown when dying
++ Added more levels and polished old ones
++ Explosive barrels now break doors! Kick that barrel!
++ Health and Ammo boxes now disappear after being completely consumed
++ Added 2 new level backgrounds
++ Fixed: Blowup Bart AI locking and Leader Lemmy armor bug
++ Fixed: mission ending before saving all hostages
++ Fixed: accuracy computation formula
++ Fixed: gore lag and short bullets when turning VSync OFF from the driver settings
+
+v0.5.19 from 22-Dec-2017
+------------------------
++ [!] Added 2 new enemies: Molotov Manny and Fanatic Frankie
++ [!] Added 2 new special abilities: Dragon Breath Rounds and SMG Assault
++ [!] Added Leaderboards (single player / coop)
++ [!] Added 2 more in-game soundtracks
++ [!] Added Wounded Cop NPC
++ [!] Added 6 new missions and updated old levels
++ You can now shoot grenades from ladders in all directions (keep left/right/down when throwing)
++ Changed bomb artwork and explosion
++ Changed some weapons
++ Added Christmas... easter egg
++ Updated graphics (tileset, explosions, characters)
++ Enemies that are too close are pushed away
++ Grenades can be thrown through windows
++ Added hostage voices
++ Added crows here and there, and rats, lots of rats
++ Added cool "Spawn" and "Reinforcement Called" animations
++ Removed class selection after dying and respawning
++ Fixed: dying when passing through doors resulted in transparent corpse
++ Fixed: breaching charge on horizontal glass damage rule
++ Fixed: rare "level finished" message while enemies still coming in through doors
++ Fixed: hostage kill not counted when used as human shield (Leader Lemmy)
++ Fixed: minor AI glitches when the enemy lost his target
++ Fixed: sometimes enemies could shoot you even if in cover mode
++ Fixed: Sniper Support shooting dead targets (if killed after enemy marked as sniper target)
++ Fixed: Sniper targets weren't counted as kills for the player that activated the Sniper Assist
+
+v0.5.18 from 02-Dec-2017
+------------------------
++ [!] Added CHAT (press ENTER to open chat interface during Online COOP)
++ [!] Fixed rare network disconnect message when finishing a mission in coop
++ Added CRC check on important files. When modding the game one can only play with peers having the same mod enabled (Network error was shown before)
++ Added new "ready" sounds for Assaulter in player selection screen
++ Sniper support kills alert nearby enemies
++ Damage over Time frags (eg. fire from flashbangs) give the player Strategic Points now
++ Fixed grenades and barrel napalm lumps falling from hidden rooms when exiting the room before explosion
++ Fixed small bug that allowed the player to win a level when shooting the last and only hostage
++ When kicking down a door enemies will hear it and get alerted on both sides of the door now
++ Fixed Suicide Bomber damage on players with armor (more deadly)
++ Fixed breaching charge explosion damage and enemy alert events
++ Melee now hits enemies that are really close too
++ Fixes a bug where close enemies wouldn't get pushed back by melee
++ Fixed some errors in some of the levels (errors reported by players)
++ Changed the order of some levels based on their difficulty
+
+v0.5.17 from 24-Nov-2017
+------------------------
++ Visual/gameplay improvements on several maps
++ Alt + F1 during gameplay brings up keyboard layout
++ Ingame Help mode (F1) shows the Special Ability key when Strategic Bar is full. 
++ Added Exit button on COOP WIN Screen
++ Added Next Mission button on COOP LOSE Screen
++ Restart now takes you to class selection screen
++ Bomber doesn't explode anymore when kicked
++ Now you can't use special ability in midair or on ladders anymore
++ Shows frame latency on multiplayer and FPS when pressing F5
++ Barrels incendiated by players that kill enemies count the enemies as kills
++ Removed stun from barrel napalm particles
++ Strategic bar blinks when getting strategic points
++ Respawn buddy icon blinks when playing a 2 player game
++ Sniper Support doesn't give SP anymore
++ Sniper Support doesn't kill enemies under fog of war
++ You can now jump for a few frames after falling off a platform (you can jump after breaking the horizontal glass too)
++ Fixed super powerful air kick effect when kicking an enemy to death near an edge and sending him flying
++ Removed aiming error on aimed shot
++ Fixed Leader Lemmy "GET HIM" loop
++ COOP: fixed rare lock bug on mission end
++ Tuned M4 Carbine a bit different. It's damage is dependend on range now to reflect fragmentation. 
+
+v0.5.16 from 19-Nov-2017
+------------------------
++ Fixed bugs that would result in the game freezing while playing online (FINAL)
++ Speed Pouches now give you -30% Reload Time
++ Improved random level selection when quick playing online
+
+v0.5.15 from 19-Nov-2017
+------------------------
++ Added DPI Awareness
++ Fixed several bugs that would result in the game freezing while playing online
++ Fixed several issues in levels: 1.1, 2.2, 2.5, 2.7
++ Fixed script-related crash
++ Fixed character selection screen desync
++ Fixed screen flashing red when team-mate got hit
++ Added legal documents EULA and Credits inside licensing.txt
+
+v0.5.14 from 17-Nov-2017
+------------------------
++ Version v0.5.14 - Steam Early Access Version RC1

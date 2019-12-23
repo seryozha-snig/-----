@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<!-- 
+nChapter, nLevel - numeric and start from 1
+sSource - string, can contain subdirs
+-->
+
+<Missions>
+  <!-- chapter 1 -->
+  <Mission nChapter="1" nLevel="1" sSource="01_01_slow_starters.dkas" />
+  <Mission nChapter="1" nLevel="2" sSource="01_02_knock_knock.dkas" />
+  <Mission nChapter="1" nLevel="3" sSource="01_03_old_embassy.dkas" />
+  <Mission nChapter="1" nLevel="4" sSource="01_04_night_call.dkas" />
+  <Mission nChapter="1" nLevel="5" sSource="01_05_tread_carefully.dkas" />
+  <Mission nChapter="1" nLevel="6" sSource="01_06_255th_precinct.dkas" />
+  <Mission nChapter="1" nLevel="7" sSource="01_07_high_rise.dkas" />
+  <Mission nChapter="1" nLevel="8" sSource="01_08_the_warehouse.dkas" />
+  <Mission nChapter="1" nLevel="9" sSource="01_09_office_day.dkas" />
+  <Mission nChapter="1" nLevel="10" sSource="01_10_flashbang_junction.dkas" />
+  <Mission nChapter="1" nLevel="11" sSource="01_11_cleanup.dkas" />
+  <Mission nChapter="1" nLevel="12" sSource="01_12_meet_big_boss.dkas" />
+  <!-- chapter 2 -->
+  <Mission nChapter="2" nLevel="1" sSource="02_01_meeting_bart.dkas" />
+  <Mission nChapter="2" nLevel="2" sSource="02_02_volatile_motel.dkas" />
+  <Mission nChapter="2" nLevel="3" sSource="02_03_going_under.dkas" />
+  <Mission nChapter="2" nLevel="4" sSource="02_04_the_bunker.dkas" />
+  <Mission nChapter="2" nLevel="5" sSource="02_05_midnight_folies.dkas" />
+  <Mission nChapter="2" nLevel="6" sSource="02_06_mountain_hideout.dkas" />
+  <Mission nChapter="2" nLevel="7" sSource="02_07_outpost.dkas" />
+  <Mission nChapter="2" nLevel="8" sSource="02_08_bombs_away.dkas" />
+  <Mission nChapter="2" nLevel="9" sSource="02_09_the_block.dkas" />
+  <Mission nChapter="2" nLevel="10" sSource="02_10_caught_in_the_maze.dkas" />
+  <Mission nChapter="2" nLevel="11" sSource="02_11_the_musem.dkas" />
+  <Mission nChapter="2" nLevel="12" sSource="02_12_the_yard.dkas" />
+  <!-- chapter 3 -->
+  <Mission nChapter="3" nLevel="1" sSource="03_01_frankie_the_fanatic.dkas" />
+  <Mission nChapter="3" nLevel="2" sSource="03_02_crisis_at_mcdonuts.dkas" />
+  <Mission nChapter="3" nLevel="3" sSource="03_03_metro_madness.dkas" />
+  <Mission nChapter="3" nLevel="4" sSource="03_04_molotov_delivery.dkas" />
+  <Mission nChapter="3" nLevel="5" sSource="03_05_vertigo.dkas" />
+  <Mission nChapter="3" nLevel="6" sSource="03_06_water_works_inc.dkas" />
+  <Mission nChapter="3" nLevel="7" sSource="03_07_cold_exposure.dkas" />
+  <Mission nChapter="3" nLevel="8" sSource="03_08_hipster_beer_factory.dkas" />
+  <Mission nChapter="3" nLevel="9" sSource="03_09_climbing_the_shaft.dkas" />
+  <Mission nChapter="3" nLevel="10" sSource="03_10_laboratory_crisis.dkas" />
+  <Mission nChapter="3" nLevel="11" sSource="03_11_raid_on_plaza.dkas" />
+  <Mission nChapter="3" nLevel="12" sSource="03_12_doomsday_train.dkas" />
+  <!-- chapter 4 -->
+  <Mission nChapter="4" nLevel="1" sSource="04_01_bank_heist.dkas" />
+  <Mission nChapter="4" nLevel="2" sSource="04_02_queens_cross.dkas" />
+  <Mission nChapter="4" nLevel="3" sSource="04_03_fibonacci.dkas" />
+  <Mission nChapter="4" nLevel="4" sSource="04_04_on_the_anvil.dkas" />
+  <Mission nChapter="4" nLevel="5" sSource="04_05_secret_stronghold.dkas" />
+  <Mission nChapter="4" nLevel="6" sSource="04_06_caneville.dkas" />
+  <Mission nChapter="4" nLevel="7" sSource="04_07_on_vacation.dkas" />
+  <Mission nChapter="4" nLevel="8" sSource="04_08_whine_and_dine.dkas" />
+  <Mission nChapter="4" nLevel="9" sSource="04_09_lights_out.dkas" />
+  <Mission nChapter="4" nLevel="10" sSource="04_10_to_the_airport.dkas" />
+  <Mission nChapter="4" nLevel="11" sSource="04_11_around_the_clock.dkas" />
+  <Mission nChapter="4" nLevel="12" sSource="04_12_the_great_batsby.dkas" />
+  <!-- chapter 5 -->
+  <Mission nChapter="5" nLevel="1" sSource="05_01_i_am_the_captain_now.dkas" />
+  <Mission nChapter="5" nLevel="2" sSource="05_02_reservoir_docks.dkas" />
+  <Mission nChapter="5" nLevel="3" sSource="05_03_dusty_neighbours.dkas" />
+  <Mission nChapter="5" nLevel="4" sSource="05_04_the_shiny.dkas" />
+  <Mission nChapter="5" nLevel="5" sSource="05_05_el_quarantino.dkas" />
+  <Mission nChapter="5" nLevel="6" sSource="05_06_joint_block.dkas" />
+  <Mission nChapter="5" nLevel="7" sSource="05_07_sky_scratchers.dkas" />
+  <Mission nChapter="5" nLevel="8" sSource="05_08_nctv_cribs.dkas" />
+  <Mission nChapter="5" nLevel="9" sSource="05_09_tinytanic.dkas" />
+  <Mission nChapter="5" nLevel="10" sSource="05_10_flying_high.dkas" />
+  <Mission nChapter="5" nLevel="11" sSource="05_11_word_on_the_street.dkas" />
+  <Mission nChapter="5" nLevel="12" sSource="05_12_the_crib.dkas" />
+</Missions>
+
